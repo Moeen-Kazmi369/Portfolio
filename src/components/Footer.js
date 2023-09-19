@@ -8,7 +8,7 @@ return (
         <div className="footer">
                 <img src="https://demo.phlox.pro/freelancer/wp-content/uploads/sites/272/2021/02/logo-header.svg" alt="Logo" />
                 <p>© 2023 Freelancer - Phlox Elementor WordPress Theme. All rights reserved.</p>
-                <div className="footerList">
+                <div className="flex justify-center items-center px-6 py-3">
                         <span><BiMessageRoundedDetail /></span>
                         <span><FaBehance /></span>
                         <span><FaInstagram /></span>
