@@ -139,7 +139,8 @@ nav{
   background-color: rgba(241, 174, 47, 0.925);
 }
 #Header{
-  height: 110vh;
+  min-height: 98vh;
+  max-height: auto;
 }
 .mainHeader{
   width: 93%;
