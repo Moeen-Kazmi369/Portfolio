@@ -12,7 +12,7 @@ return (
                         <h4 className="btn" data-aos="fade-up">Contact&nbsp; Me</h4> 
                 </div>
                 <div className="headerImageDiv">
-                        <img src="https://demo.phlox.pro/freelancer/wp-content/uploads/sites/272/2021/02/hero-img.png" data-aos="fade-up" alt='Header Image' />
+                        <img src="/public/my.png" data-aos="fade-up" alt='Header Image' />
                         <div className="circle" data-aos="zoom-in"></div>
                         <div className="haederIcon1 headerIcons" data-aos="fade-left">Ai</div>
                         <div className="haederIcon2 headerIcons" data-aos="fade-right">Ps</div>
