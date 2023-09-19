@@ -861,9 +861,9 @@ footer{
   .headerText p{
     font-size: 16px;
   }
-  .Header{
+  /* .Header{
     height:81vh;
-  }
+  } */
 }
 @media (min-width:780px) and (max-width : 1100px){
   .circle{
@@ -887,9 +887,9 @@ footer{
   .mainHeader .headerImageDiv img{
     width: 84%;
   }
-  .Header{
+  /* .Header{
     height: 60vh;
-  }
+  } */
   .headerIcons{
     font-size: 28px;
     padding: 28px;
@@ -934,9 +934,9 @@ footer{
   .mainHeader .headerImageDiv img{
     width: 80%;
   }
-  .Header{
+  /* .Header{
     height: 45vh;
-  }
+  } */
   .headerIcons{
     font-size: 22px;
     padding: 22px;
@@ -972,9 +972,9 @@ footer{
     font-size: 18px;
     padding: 18px;
   }
-  .Header{
+  /* .Header{
     height: 45vh;
-  }
+  } */
 }
 @media (min-width:150px) and (max-width : 567px){
   .showcase{
@@ -1041,9 +1041,9 @@ footer{
   .headerText p{
     font-size: 16px;
   }
-  .Header{
+  /* .Header{
     height:81vh;
-  }
+  } */
 }
 @media (min-width:733px) and (max-width : 1000px){
   .blurBG{
