@@ -139,8 +139,7 @@ nav{
   background-color: rgba(241, 174, 47, 0.925);
 }
 #Header{
-  min-height: 98vh;
-  max-height: auto;
+  height: 110vh;
 }
 .mainHeader{
   width: 93%;
@@ -152,6 +151,7 @@ nav{
 .Header{
   background: #25262A;
   overflow: hidden;
+  height: auto;
 }
 .headerText{
   width: 37%;
