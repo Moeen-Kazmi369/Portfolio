@@ -23,8 +23,8 @@ export default function Home() {
   return (
     <div className="App">
     <Navbar />
-    {/* <MessageBtn /> */}
-    {/* <SideBtn /> */}
+    <MessageBtn />
+    <SideBtn />
     <Header />
     <Showcase />
     <Projects />
